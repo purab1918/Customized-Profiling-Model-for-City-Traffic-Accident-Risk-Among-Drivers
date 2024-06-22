@@ -13,9 +13,9 @@ To collect and analyze data related to driver behaviors, road conditions, weathe
 To preprocess the collected data, ensuring accuracy and consistency for model development.
 To develop a machine learning-based predictive model that accurately assesses the risk of traffic accidents for individual drivers.
 
-Key Components
 
 Data Collection
+
 Data will be collected from various sources, including:
 
 Driver behavior records (e.g., speed, adherence to traffic signals).
