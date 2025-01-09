@@ -7,6 +7,7 @@ Background
 Traffic accidents are a significant issue in urban areas, with a large number of incidents caused by driver behavior. Considerate drivers, who adhere to traffic rules and signs, generally have lower accident risks compared to inconsiderate drivers who often disregard such rules. However, these behaviors alone are not sufficient to predict accident risk accurately. Other factors, such as road conditions, weather, and external events, also play crucial roles in determining the likelihood of accidents.
 
 Objectives
+
 The primary objectives of this project are:
 
 To collect and analyze data related to driver behaviors, road conditions, weather, and other relevant factors.
